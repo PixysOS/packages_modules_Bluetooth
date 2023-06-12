@@ -16,6 +16,24 @@
       "message": "needs to be adapted again for r41",
       "revId": "1673973c95588542aa5153483fef27042ec2447b",
       "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b915569_eb04b249",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2023-06-12T13:04:16Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "f92d2d58_f682567f",
+      "revId": "1673973c95588542aa5153483fef27042ec2447b",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
     }
   ]
 }
